@@ -1,4 +1,4 @@
-# **CySecPython**
+# **CySecPython 2**
 <img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650"/>
 
 <img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>

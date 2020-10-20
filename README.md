@@ -16,8 +16,8 @@ Além disso, foi desenvolvido para critérios avaliativos do curso Python para V
 
 <img src="https://hongkong.imd.ufrn.br/filemanagerportal/source/2020/Integra_School.png" width="600"/>
 
-## O que é engenharia social?
-Esta é a técnica mais utilizada por hacke...
+## **O que é engenharia social?**
+Bem como na última edição deste projeto, novamen...
 
 # Clique [aqui](https://colab.research.google.com/drive/1OG4o3wMfaVZWppO8IRUDRZ3LxPyRIAoe?usp=sharing) para ler o artigo através do [Google Colab](https://colab.research.google.com/drive/1OG4o3wMfaVZWppO8IRUDRZ3LxPyRIAoe?usp=sharing) ou [aqui](https://github.com/sidneypepo/cysecpython/blob/master/cysecpython.ipynb) para ler o artigo através do [GitHub](https://github.com/sidneypepo/cysecpython/blob/master/cysecpython.ipynb)!
 # [Acesse nosso vídeo de apresentação do projeto!](https://youtube.com/watch?v=bKj17RG62HQ)

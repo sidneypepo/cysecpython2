@@ -19,7 +19,7 @@ Além disso, foi desenvolvido para critérios avaliativos do curso Python para V
 ## **O que é engenharia social?**
 Bem como na última edição deste projeto, novamen...
 
-# Clique [aqui](https://colab.research.google.com/drive/1OG4o3wMfaVZWppO8IRUDRZ3LxPyRIAoe?usp=sharing) para ler o artigo através do [Google Colab](https://colab.research.google.com/drive/1OG4o3wMfaVZWppO8IRUDRZ3LxPyRIAoe?usp=sharing) ou [aqui](https://github.com/sidneypepo/cysecpython/blob/master/cysecpython.ipynb) para ler o artigo através do [GitHub](https://github.com/sidneypepo/cysecpython/blob/master/cysecpython.ipynb)!
-# [Acesse nosso vídeo de apresentação do projeto!](https://youtube.com/watch?v=bKj17RG62HQ)
+# Clique [aqui]() para ler o artigo através do [Google Colab]() ou [aqui](https://github.com/sidneypepo/cysecpython2/blob/master/cysecpython2.ipynb) para ler o artigo através do [GitHub](https://github.com/sidneypepo/cysecpython2/blob/master/cysecpython2.ipynb)!
+# [Acesse nosso vídeo de apresentação do projeto!]()
 
 # [Confira a edição anterior do projeto CySecPython!](https://github.com/sidneypepo/cysecpython)
